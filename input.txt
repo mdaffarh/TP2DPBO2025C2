@@ -1,0 +1,15 @@
+# Tambah Data CPP dan Java
+1006 BajuAnakKucing 20000 5 Baju Rajut Putih Kucing Small Catqlo
+
+# Tambah Data Phyton
+2
+1006
+BajuAnakKucing
+20000
+5
+Baju
+Rajut
+Putih
+Kucing
+Small
+Catqlo
