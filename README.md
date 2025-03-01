@@ -24,3 +24,6 @@ Program ini menerapkan konsep Multi-Level Inheritance dengan tiga kelas utama:
 
 ## Alur Program
 Secara keseluruhan, program dimulai dengan membuat penyimpanan seperti list, ArrayList, vector untuk objek-objek nantinya. Kemudian dilakukan instansiasi objek dari class Clothes dan disimpan ke tempat penyimpanan, atribut kemudian diisi atau ditambah menggunakan method konstruktor dan setter. Objek-objek ditampilkan menggunakan method getter tiap atribut.
+
+## Dokumentasi
+Terdapat di masing-masing folder pada tiap bahasa.
