@@ -19,7 +19,7 @@ Program ini menerapkan konsep Multi-Level Inheritance dengan tiga kelas utama:
 
 3. Clothes (turunan dari Accessories)
 - Mewakili pakaian untuk hewan peliharaan.
-- Atribut tambahan: size, brand, type.
+- Atribut tambahan: category, size, brand.
 - Method: Getter dan Setter
 
 ## Alur Program
